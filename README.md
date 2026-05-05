@@ -65,3 +65,12 @@ The Power BI dashboard provides a business-focused view across three key areas:
 • Power BI  
 • Excel  
 
+##  Conclusion
+
+This analysis highlights that the business is heavily dependent on a small group of high-value customers, while a majority of customers drop off after their first purchase.
+
+The key growth opportunity lies in improving early-stage retention, particularly within the first 30 days, where the highest customer drop-off occurs.
+
+By focusing on onboarding, increasing second purchase conversion, and targeting at-risk customers, the business can significantly improve repeat purchases and overall revenue.
+
+This project demonstrates how data-driven retention strategies can drive sustainable and cost-effective growth.
