@@ -1,5 +1,7 @@
 # customer-retention-revenue-optimization-analysis
+This project identifies a critical revenue risk: ~80% customers drop after their first purchase, while ~67% revenue depends on a small customer segment.
 
+The analysis focuses on improving early retention to unlock high-impact revenue growth.
 ##  Business Problem
 
 The business is experiencing high customer drop-off after the first purchase, limiting revenue growth. 
@@ -30,13 +32,13 @@ The goal of this project is to identify retention gaps, analyze customer behavio
 
 • Focus on retention strategies, as improving retention is more cost-effective than acquiring new customers
 
-## 📈 Potential Impact
+##  Potential Impact
 
-Improving early-stage retention (Month 1) presents the highest revenue growth opportunity.
+• Improving Month 1 retention from ~20% to ~30% can significantly increase repeat customer base and revenue contribution
 
-A small increase in retention can significantly increase repeat purchases and overall revenue, making retention optimization a high-ROI strategy.
+• Small improvements in retention can drive disproportionate revenue growth due to high dependency on repeat customers
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 The Power BI dashboard provides a business-focused view across three key areas:
 
@@ -53,7 +55,7 @@ The Power BI dashboard provides a business-focused view across three key areas:
 
 • Created business-ready dataset by removing invalid transactions and handling missing values
 
-• Performed RFM segmentation using NTILE window functions
+•  Implemented advanced SQL using window functions (NTILE, FIRST_VALUE) for RFM segmentation and cohort analysis
 
 • Built cohort analysis to track customer retention trends
 
