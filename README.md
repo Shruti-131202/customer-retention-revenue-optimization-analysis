@@ -43,7 +43,8 @@ The goal of this project is to identify retention gaps, analyze customer behavio
 The Power BI dashboard provides a business-focused view across three key areas:
 
 • Executive Summary: Revenue, repeat rate, and concentration risks  
-<img width="878" height="496" alt="Executive" src="https://github.com/user-attachments/assets/f5621fb3-9355-4e80-9f67-4de20b38e012" />
+<img width="889" height="499" alt="Executive" src="https://github.com/user-attachments/assets/424a91ef-eac2-4636-b3f1-6c3ce7e61331" />
+
 • Customer Segmentation: RFM-based analysis to identify high-value and at-risk segments  
 <img width="901" height="500" alt="RFM_Analysis" src="https://github.com/user-attachments/assets/4cb1fb9b-5ad2-45a3-b7f6-3a50cae73ae8" />
 • Retention Analysis: Cohort-based tracking of customer behavior over time  
